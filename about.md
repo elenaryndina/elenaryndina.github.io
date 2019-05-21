@@ -21,7 +21,7 @@ SEO-продвижение
 Составление семантического ядра
 по договоренности
 
-![Image of Barrel](iamges/443_03_frei.jpg)
+![Image of Barrel](images/443_03_frei.jpg)
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
